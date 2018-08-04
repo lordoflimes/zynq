@@ -1,4 +1,4 @@
 
 Zynq 7000
 
-Xinlinx Zynq 7000 uses the ARM Cortex-A9 with NEON and FPU revision r3p0.
+Xilinx Zynq 7000 uses the ARM Cortex-A9 with NEON and FPU revision r3p0.
